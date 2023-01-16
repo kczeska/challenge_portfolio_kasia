@@ -27,3 +27,8 @@ Na pewno jest bardzo prosta i minimalistyczna (aż za bardzo) i nie podoba mi si
 
 Czy aplikacja jest intuicyjna?
 
+Wydaje mi się, że mogłaby spełnić swoją funkcję, ale nie jest zbyt przyjazna w użytkowaniu.
+
+Podczas przeklikiwania się przez aplikację zauważyłam sporo błędów - np. dane jak wiek, waga gracza lub czas gry mogły być wartościami ujemnymi, w zakładce Raporty po kliknięciu w Dodaj raport przekierowuje mnie do listy meczy, na liście graczy na 4 stronie nie można było już przejść na 5, ale ten błąd zniknął dzisiaj. Data urodzenia pozwala na wpisanie daty z przyszłości. W imieniu oraz nazwisku można wpisać znaki specjalne. W polu na wpisanie nr telefonu można wpisać litery (ogólnie strona pozwala na wpisanie wielu nieprawdziwych danych i ogranicza nas tylko nasza kreatywność). Nie do końca rozumiem funkcjonalność Rozpocznij mecz, ale można ustawić dużo więcej niż standardowe 2 połowy meczu. 
+
+Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
