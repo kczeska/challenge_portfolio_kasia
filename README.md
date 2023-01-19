@@ -12,15 +12,22 @@ Hej :) Mam na imię Kasia i zdecydowałam się na udział w tym projekcie, ponie
 
 SUBTASK 4
 ---
-Na czym polega ta aplikacja? Do czego służy?
+1. Na czym polega ta aplikacja? Do czego służy?
 
-Scauci mogą na niej przejrzeć wskaźniki dotyczące poszczególnych graczy i tym sposobem odkrywać nowe talenty
+   Scauci mogą na niej przejrzeć wskaźniki dotyczące poszczególnych graczy i tym sposobem odkrywać nowe talenty oraz ,,kupować'' najlepszych graczy do swoich klubów.
 
-Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
+2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
 
-Na Stronie głównej możemy podejrzeć liczbę graczy, meczy, raportów oraz akcji. Możemy dodać nowego gracza i przejrzeć aktywność dotyczącą graczy, meczy oraz raportów.
-W zakładce Gracze mamy listę graczy, których możemy filtrować po imieniu, nazwisku, wieku, pozycji itp. Możemy również zmienić język na angielski. Po kliknięciu w konkretnego gracza możemy zobaczyć rozegrane przez niego mecze i raporty oceniające jego grę. Możemy dodać kolejny mecz i raport lub edytować obecne dane. Ta strona nie należy do najbardziej intuicyjnych, musiałam bardzo długo się przez nią przeklikiwać żeby załapać o co chodzi (nadal nie wiem czym jest ilość akcji na stronie głównej). Gdybym miała coś zmienić to na pewno dodałabym dużo więcej informacji na temat funkcjonalności poszczególnych opcji i zasady korzystania z platformy
+* Logowanie do aplikacji używając adresu e-mail i hasła
+* Wyszukiwarka w górnej części ekranu, dzięki której możemy wyszukać konkretnego gracza
+* Na Stronie głównej możemy podejrzeć liczbę graczy, meczy, raportów oraz akcji. 
+* Możemy dodać nowego gracza i przejrzeć aktywność dotyczącą graczy, meczy oraz raportów.
+* W zakładce Gracze mamy listę graczy, których możemy filtrować po imieniu, nazwisku, wieku, pozycji itp. 
+* Możemy zmienić język na angielski. 
+* Po kliknięciu w konkretnego gracza możemy zobaczyć rozegrane przez niego mecze i raporty oceniające jego grę. 
+* Możemy dodać kolejny mecz i raport lub edytować obecne dane. 
 
+Ta strona nie należy do najbardziej intuicyjnych, musiałam bardzo długo się przez nią przeklikiwać żeby zrozumieć niektóre funkcjonalności (dodawanie meczy i raportów dopiero po wejściu na konkretnego gracza, brak możliwości kliknięcia na elementy na stronie głównej.
 Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 
 Na pewno jest bardzo prosta i minimalistyczna (aż za bardzo) i nie podoba mi się w niej w sumie nic haha - na pewno nie zachęca w żaden sposób żeby na nią zaglądać
