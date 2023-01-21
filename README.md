@@ -43,7 +43,7 @@ Podczas przeklikiwania się przez aplikację zauważyłam sporo błędów:
 
 Screen 1
 
-![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/2023-01-21_09h35_16.png)
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/2023-01-21_09h35_16.png)
 
 * dane jak wiek, waga gracza lub czas gry mogły być wartościami ujemnymi
 
