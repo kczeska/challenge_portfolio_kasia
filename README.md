@@ -53,7 +53,8 @@ Screen 1
 
 Screen 2
 
-![](
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/2023-01-21_09h58_49.png)
+
 * w imieniu oraz nazwisku można wpisać znaki specjalne oraz cyfry
 
 * w polu na wpisanie nr telefonu można wpisać zbyt wiele cyfr
