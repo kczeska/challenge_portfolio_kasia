@@ -59,5 +59,9 @@ Screen 2
 
 * w polu na wpisanie nr telefonu można wpisać zbyt wiele cyfr
 
+Screen 3 i 4
+
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/2023-01-21_screen3_00.png)
+
 
 Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
