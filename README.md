@@ -41,9 +41,19 @@ Wydaje mi się, że mogłaby spełnić swoją funkcję, ale nie jest zbyt przyja
 
 Podczas przeklikiwania się przez aplikację zauważyłam sporo błędów:
 
-* dane jak wiek, waga gracza lub czas gry mogły być wartościami ujemnymi
-![]()
+Screen 1
 
-* w zakładce Raporty po kliknięciu w Dodaj raport przekierowuje mnie do listy meczy, na liście graczy na 4 stronie nie można było już przejść na 5, ale ten błąd zniknął dzisiaj. Data urodzenia pozwala na wpisanie daty z przyszłości. W imieniu oraz nazwisku można wpisać znaki specjalne. W polu na wpisanie nr telefonu można wpisać litery (ogólnie strona pozwala na wpisanie wielu nieprawdziwych danych i ogranicza nas tylko nasza kreatywność). Nie do końca rozumiem funkcjonalność Rozpocznij mecz, ale można ustawić dużo więcej niż standardowe 2 połowy meczu. 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/2023-01-21_09h35_16.png)
+
+* dane jak wiek, waga gracza lub czas gry mogły być wartościami ujemnymi
+
+* data urodzenia pozwala na wpisanie daty z przyszłości
+
+Screen 2
+
+* w imieniu oraz nazwisku można wpisać znaki specjalne oraz cyfry
+
+* w polu na wpisanie nr telefonu można wpisać zbyt długi numer oraz litery 
+
 
 Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
