@@ -49,11 +49,14 @@ Screen 1
 
 * data urodzenia pozwala na wpisanie daty z przyszłości
 
+* w polu na wpisanie nr telefonu można wpisać litery
+
 Screen 2
 
+![](
 * w imieniu oraz nazwisku można wpisać znaki specjalne oraz cyfry
 
-* w polu na wpisanie nr telefonu można wpisać zbyt długi numer oraz litery 
+* w polu na wpisanie nr telefonu można wpisać zbyt wiele cyfr
 
 
 Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
