@@ -66,4 +66,9 @@ Screen 3 i 4
 
 * w zakładce 'Raporty' po kliknięciu w 'Dodaj raport' przenosi nas do zakładki 'Mecze'
 
+Screen 5
+
+![](
+
+
 Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
