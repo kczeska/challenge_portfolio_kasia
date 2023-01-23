@@ -79,3 +79,14 @@ Screen 6
 * w Zakładce Aktywność znajdują się literówki - 'Zaaktualizowany' zamiast 'Zaktualizowany'
 
 Pierwszy raz miałam styczność z DEvToolsami i tylko raz wyskoczył mi błąd o numerze 400, który nie był błędem, tylko poprawnym zachowaniem strony (wpisałam niepoprawny adres e-mail) - może głupio, że się tym chwalę, ale od czegoś muszę zacząć. Pewnie za jakiś czas będę się z tego śmiała. Ogólnie testowanie to fajna zabawa, ale zdecydowanie brakuje mi wprawy. Jestem bardzo ciekawa czego jeszcze się nauczę podczas wyzwania ;)
+
+TASK 2
+===
+Subtask 1 and 2
+---
+https://drive.google.com/drive/folders/1cKhrLGk8sUXVRaDW4Gqn-c78lxb-UwST?usp=sharing
+
+Subtask 3
+---
+We should write test cases to ensure that we thoroughly test the software and identify any potential issues before the software is released to customers. Test cases provide a clear and structured approach to testing, and they help to ensure that all important functionality is covered. Additionally, test cases can be used as documentation for the software, which can be useful for future reference and maintenance. Writing test cases can also help to improve the communication between the development and testing teams, as well as help to identify any requirements that may have been missed during the development process. (przestawiłam się na angielski w tym zadaniu)
+
