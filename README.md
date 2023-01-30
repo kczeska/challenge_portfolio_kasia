@@ -90,3 +90,6 @@ Subtask 3
 ---
 We should write test cases to ensure that we thoroughly test the software and identify any potential issues before the software is released to customers. Test cases provide a clear and structured approach to testing, and they help to ensure that all important functionality is covered. Additionally, test cases can be used as documentation for the software, which can be useful for future reference and maintenance. Writing test cases can also help to improve the communication between the development and testing teams, as well as help to identify any requirements that may have been missed during the development process. (przestawiłam się na angielski w tym zadaniu)
 
+TASK 3
+===
+https://drive.google.com/drive/folders/1cKhrLGk8sUXVRaDW4Gqn-c78lxb-UwST?usp=share_link
