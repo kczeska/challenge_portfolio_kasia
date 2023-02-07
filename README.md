@@ -93,3 +93,27 @@ We should write test cases to ensure that we thoroughly test the software and id
 TASK 3
 ===
 https://drive.google.com/drive/folders/1cKhrLGk8sUXVRaDW4Gqn-c78lxb-UwST?usp=share_link
+
+TASK 4
+===
+https://drive.google.com/drive/folders/1kpmw8AglRfcSYqjjowJbCaZDREuhIpgw?usp=share_link
+
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Służy do zarabiania pieniędzy :) oczywiście poprzez udostępnianie i sprzedawanie treści użytkownikom
+
+2. Kto ma być użytkownikiem końcowym aplikacji?
+
+Osoby, które poszukują muzyki do odprężenia oraz prowadzonych medytacji np. do snu, a także sposobów radzenia sobie ze stresem np. poprzez pracę nad oddechem
+
+3. Czy według Ciebie aplikacja jest user friendly?
+
+Tak, nie miałam żadnego problemu z poruszaniem się po niej. Może dlatego, że przypomina Spotify i jestem przyzwyczajona do takiego typu aplikacji
+
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+
+Nie zmieniłabym dużo - na pewno dodałabym możliwość oceny poszczególnych kursów i twórców oraz inaczej zredagowała dostępne artykuły żeby były przyjaźniejsze w odbiorze (może dodała do nich opcję audiobooka)
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+Dużo więcej korzystam z telefonu, więc mam wrażenie, że jest to dla mnie łatwiejsze, ale z kolei dużo łatwiej bardzo szybko przeklikać poszczególne opcje i mieć trudność z powróceniem do jakiegoś błędu lub z odtworzeniem poszczególnych kroków. Czujemy też bardziej że aplikacja zużywa dużo baterii (telefon robi się ciepły). Na jednym telefonie możemy przetestować tylko jedna wersję aplikacji (na dany system operacyjny) a do testowania aplikacji internetowej możemy użyć wielu różnych przeglądarek (mając tylko jedno urządzenie z Windowsem)
