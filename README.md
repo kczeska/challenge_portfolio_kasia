@@ -128,6 +128,8 @@ Subtask 3
 
 SELECT actor_id, name, surname FROM `actors` ORDER BY surname; 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_1.png)
+
 2. Wyświetl film, który powstał w 2019 roku.
 
 SELECT * FROM `movies` WHERE year_of_production='2019'
