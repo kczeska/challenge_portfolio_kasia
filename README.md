@@ -140,32 +140,47 @@ SELECT * FROM `movies` WHERE year_of_production='2019'
 
 SELECT * FROM `movies` WHERE year_of_production>'1990' AND year_of_production<'1999'; 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_3.png)
+
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
 SELECT title, price FROM `movies` WHERE price<'7'; 
+
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_4.png)
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
 SELECT * FROM `actors` WHERE actor_id>='4' AND actor_id<='7'; 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_5.png)
+
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
 SELECT * FROM `customers` WHERE customer_id='2' OR customer_id='4' OR customer_id='6'; 
+
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_6.png)
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
 SELECT * FROM `customers` WHERE customer_id IN ('1', '3', '5'); 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_7.png)
+
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 SELECT * FROM `actors` WHERE name LIKE 'An%'; 
+
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_8.png)
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 SELECT * FROM `customers` WHERE email IS NULL; 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_9.png)
+
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 SELECT * FROM `movies` WHERE price>'9' AND movie_id BETWEEN 2 AND 8; 
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_10.png)
 
