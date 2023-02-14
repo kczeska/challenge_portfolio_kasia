@@ -134,6 +134,8 @@ SELECT actor_id, name, surname FROM `actors` ORDER BY surname;
 
 SELECT * FROM `movies` WHERE year_of_production='2019'
 
+![](https://github.com/kczeska/challenge_portfolio_kasia/blob/main/images/Task%204_screen_2.png)
+
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
 SELECT * FROM `movies` WHERE year_of_production>'1990' AND year_of_production<'1999'; 
